@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.library": [
+        "/home/jason/.config/nvim",
+        "/home/jason/.local/share/nvim/site",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp-buffer",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/popup.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/telescope-file-browser.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/usr/lib/x86_64-linux-gnu/nvim",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp-buffer/after",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "/home/jason/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after",
+        "/home/jason/.config/nvim/after",
+        "${3rd}/luassert/library"
+    ]
+}
